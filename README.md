@@ -66,13 +66,3 @@ At **"in"**, I’m building products that combine **AI** with **user-centric des
 ###
 
 <p align="left">Thank you for visiting my GitHub profile. Let’s build something amazing together! 😊</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItaiYamin/ItaiYamin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItaiYamin/ItaiYamin/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/ItaiYamin/ItaiYamin/output/pacman-contribution-graph.svg">
-</picture>
-
-###
