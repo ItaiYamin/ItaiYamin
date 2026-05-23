@@ -1,4 +1,4 @@
-<h1 align="left">Itai Yamin - Founder & Full Stack Developer | UI/UX Designer</h1>
+<h1 align="left">Itai Yamin - Solo-Founder & Full Stack Developer | UI/UX Designer</h1>
 
 ###
 
