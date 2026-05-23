@@ -58,4 +58,4 @@ I’ve always believed that technology should not just solve problems but also e
 
 ###
 
-<p align="left">Thank you for visiting my GitHub profile. Let’s build something amazing together! 😊</p>
+<p align="left">Thank you for visiting my GitHub profile. Let’s build something amazing together! 🤩</p>
